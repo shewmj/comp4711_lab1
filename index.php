@@ -19,7 +19,6 @@ and open the template in the editor.
 
             $students = array();
 
-            
 
             $first = new Student();
             $first->surname = "Doe";
