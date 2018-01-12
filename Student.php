@@ -33,7 +33,7 @@ class Student {
     }
 
     /**
-     * Method to add a grade for the student.  
+     * Method to add a grade for a student.  
      * @param type $grade The grade of the student. 
      */
     function add_grade($grade) {
