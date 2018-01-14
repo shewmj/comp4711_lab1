@@ -7,11 +7,13 @@
  */
 
 /**
- * Description of Student
+ * Represents a Student containing their contact information and 
+ * school grades. 
  *
- * @author Matt
+ * @author Matthew Shew
  */
 class Student {
+    
     /**
      * Constructor for creating a new student. 
      * 
